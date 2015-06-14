@@ -13,8 +13,12 @@
     "hapijs",
     "hapi.js"
   ],
-  "author": "Jeremiah Hoyet",
+  "author": "Jeremiah Hoyet <jerhoyet@gmail.com>",
   "license": "MIT",
+  "repository" :{     
+    "type" : "git",
+    "url" : "https://github.com/npm/npm.git"
+  },
   "dependencies": {
     "boom": "^2.7.2",
     "lodash.assign": "^3.2.0",
