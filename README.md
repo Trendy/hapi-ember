@@ -10,10 +10,14 @@ Install using NPM:
 
 ## Usage
 
-To use hapi-ember, simple register the plugin with your Hapi.js server:
+To use hapi-ember, simply register the plugin with your Hapi.js server:
 
 ```javascript
-this.server.register({
+var server = new Hapi.Server();
+
+server.connection({port: 1337});
+
+server.register({
     register: require('hapi-ember'),
     options: {
         directory: '/path/to/your/project'
