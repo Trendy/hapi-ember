@@ -1,0 +1,28 @@
+{
+  "name": "hapi-ember",
+  "version": "0.0.1",
+  "description": "Ember.js application routing for Hapi.js, without the fuss",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -c"
+  },
+  "keywords": [
+    "emberjs",
+    "ember.js",
+    "hapi",
+    "hapijs",
+    "hapi.js"
+  ],
+  "author": "Jeremiah Hoyet",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^2.7.2",
+    "lodash.assign": "^3.2.0",
+    "mime-types": "^2.1.1"
+  },
+  "devDependencies": {
+    "expect": "^1.6.0",
+    "hapi": "^8.6.1",
+    "lab": "^5.10.0"
+  }
+}
