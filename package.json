@@ -1,6 +1,6 @@
 {
   "name": "hapi-ember",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ember.js application routing for Hapi.js, without the fuss",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,9 @@
   ],
   "author": "Jeremiah Hoyet <jerhoyet@gmail.com>",
   "license": "MIT",
-  "repository" :{
-    "type" : "git",
-    "url" : "https://github.com/Trendy/hapi-ember.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Trendy/hapi-ember.git"
   },
   "dependencies": {
     "boom": "^2.7.2",
