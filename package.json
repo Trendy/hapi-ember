@@ -15,9 +15,9 @@
   ],
   "author": "Jeremiah Hoyet <jerhoyet@gmail.com>",
   "license": "MIT",
-  "repository" :{     
+  "repository" :{
     "type" : "git",
-    "url" : "https://github.com/npm/npm.git"
+    "url" : "https://github.com/Trendy/hapi-ember.git"
   },
   "dependencies": {
     "boom": "^2.7.2",
