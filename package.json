@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "boom": "^2.7.2",
+    "inert": "^3.2.0",
     "lodash.assign": "^3.2.0",
     "mime-types": "^2.1.1"
   },
